@@ -1,0 +1,12 @@
+for linux
+
+libSDL2.a
+libngiv.a
+libIrrXML.a
+libfreetype.a
+libassimp.so
+dl
+z
+libpng
+libfreetype.so
+libharfbuzz.so
