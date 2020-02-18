@@ -10,3 +10,12 @@ z
 libpng
 libfreetype.so
 libharfbuzz.so
+
+for win32 
+
+ngiv.lib
+opengl32.lib
+SDL2.lib
+SDL2_mixer.lib
+assimp.lib
+freetype.lib 
